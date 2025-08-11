@@ -5,7 +5,9 @@ Aplicación web simple para jugar al clásico **Amigo Secreto**, donde puedes in
 ---
 
 ## 📋 Descripción
+
 Este proyecto es una práctica de **HTML, CSS y JavaScript** para fortalecer habilidades en:
+
 - Manipulación del DOM.
 - Validaciones de entradas de usuario.
 - Uso de arrays y funciones para gestionar datos en memoria.
@@ -16,6 +18,7 @@ El diseño es amigable y adaptado para facilitar la interacción del usuario.
 ---
 
 ## 🚀 Funcionalidades
+
 - **Agregar amigos**: Escribe un nombre en el campo de texto y añádelo a la lista.
 - **Evitar duplicados**: No se permiten nombres repetidos.
 - **Eliminar amigos**: Cada nombre agregado tiene un botón ❌ para eliminarlo.
@@ -27,6 +30,7 @@ El diseño es amigable y adaptado para facilitar la interacción del usuario.
 ---
 
 ## 🛠️ Tecnologías utilizadas
+
 - **HTML5** → Estructura del proyecto.
 - **CSS3** → Estilos y diseño responsivo.
 - **JavaScript** → Lógica de la aplicación y manipulación dinámica del DOM.
@@ -35,14 +39,17 @@ El diseño es amigable y adaptado para facilitar la interacción del usuario.
 
 ## 📂 Estructura del proyecto
 
-´´´
-📁 amigo-secreto
-│── 📄 index.html # Estructura principal de la página
-│── 📄 style.css # Estilos y colores del diseño
-│── 📄 app.js # Lógica del juego (validaciones, sorteo, etc.)
-│── 📄 README.md # Documentación del proyecto
-│── 📁 assets/ # Imágenes e íconos usados
+```
+📁 amigo-secreto/
+├── 📄 index.html        # Estructura principal de la página
+├── 📄 style.css         # Estilos y colores del diseño
+├── 📄 app.js            # Lógica del juego (validaciones, sorteo, etc.)
+├── 📄 README.md         # Documentación del proyecto
+└── 📁 assets/           # Imágenes e íconos usados
+```
 
-´´´
+## 📷 Capturas de pantalla
+
+![alt text](assets/image.png.png "Pantalla principal")
 
 ---
