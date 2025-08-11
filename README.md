@@ -50,6 +50,6 @@ El diseño es amigable y adaptado para facilitar la interacción del usuario.
 
 ## 📷 Capturas de pantalla
 
-![alt text](assets/image.png.png "Pantalla principal")
+![alt text](assets/image.png "Pantalla principal")
 
 ---
